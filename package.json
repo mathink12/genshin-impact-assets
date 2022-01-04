@@ -1,0 +1,20 @@
+{
+  "name": "genshin-impact-assets",
+  "version": "1.0.0",
+  "description": "genshin impact assets",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "bash scripts/deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathink12/genshin-impact-assets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathink12/genshin-impact-assets/issues"
+  },
+  "homepage": "https://github.com/mathink12/genshin-impact-assets#readme"
+}
